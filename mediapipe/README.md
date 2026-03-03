@@ -1,4 +1,5 @@
 MEDIAPIPE POSE DETECTION
+
 📌 Project Overview
 This project demonstrates human pose detection using MediaPipe in Google Colab.
 It analyzes a video file and detects body landmarks such as shoulders, elbows, knees, and other key points. The system draws a pose skeleton on each frame of the video.
