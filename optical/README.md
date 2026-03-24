@@ -37,7 +37,7 @@ Output Video
 
 Download video here:
 
-https://github.com/Pradeep-192006/Computer-vision-/raw/main/output(1).mp4
+https://github.com/Pradeep-192006/Computer-vision-/raw/main/videos/output(1).mp4
 
 
 Note
